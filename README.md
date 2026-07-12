@@ -1,4 +1,6 @@
 Base Builder Guide
+
+
 Base Builder Guide is an AI-focused starter guide for builders who want to create apps, smart contracts, payment flows, wallet integrations, or AI-agent-powered products on Base.
 
 This repository is not just a collection of links. It is a practical operating guide that tells an AI where to look in the Base ecosystem, which official sources to prioritize, which SDKs/contracts/flows to use, and how to turn an idea into a working Base project.
